@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **ERP system**
 
-- 👯 I’m looking to collaborate on **mern stack projects**
+- 👯 I’m looking to collaborate on **MERN stack projects**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
