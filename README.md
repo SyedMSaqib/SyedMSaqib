@@ -1,9 +1,7 @@
 <h1 align="center">Hi, I'm Saqib</h1>
-<h3 align="center">Full stack developer</h3>
+<h3 align="center">Software Engineer</h3>
 
-- 🔭 I’m currently working on **ERP system**
 
-- 👯 I’m looking to collaborate on **MERN stack projects**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
