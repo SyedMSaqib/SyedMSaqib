@@ -1,10 +1,3 @@
-# Your Project Title
-
-## Description
-
-Your project description goes here.
-
-## Image and Additional Content
 
 <div style="display: flex; align-items: center;">
   <img src="https://github.com/user-attachments/assets/aac2622a-46e6-403f-ac55-81df1198fccd" alt="Description of Image" width="300" style="border:2px solid black; margin-right: 20px;"/>
