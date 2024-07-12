@@ -6,15 +6,8 @@
       <li>AI/ML</li>
       <li>Web3</li>
     </ul>
-    <h4>Quotes</h4>
     <blockquote>
-      "The only way to do great work is to love what you do." - Steve Jobs
-    </blockquote>
-    <blockquote>
-      "Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful." - Albert Schweitzer
-    </blockquote>
-    <blockquote>
-      "Your time is limited, don't waste it living someone else's life." - Steve Jobs
+     "The definition of insanity is doing the same thing over and over again, but expecting different results." - Albert Einstein
     </blockquote>
   </div>
 </div>
